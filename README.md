@@ -8,7 +8,7 @@ My early exposure to robotics and automation technologies in high school helped 
 
 ## 🏆 Awards | 獲獎紀錄
 
-- Principal's Award (Ranked 3rd in Class Based on Three-Year Cumulative Academic Performance)｜校長獎（高中三年累積學業成績班級第三名）
+- Principal's Award (Ranked 3rd in Class Based on Three-Year Cumulative Academic Performance)｜校長獎（高中總學業成績班級第三名）
 - Third Place, Intelligent Robotics Sensor Applications Competition｜智慧型機器人感測實務應用競賽 第三名
 
 ## 👨‍💼 Leadership Experience | 領導經驗
